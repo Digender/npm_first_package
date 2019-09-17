@@ -1,1 +1,3 @@
-console.log('Fist Program');
+module.exports = () => {
+    console.log('Fist Program');
+}

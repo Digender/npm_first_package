@@ -1,0 +1,22 @@
+{
+  "name": "first_package_digender",
+  "version": "1.0.0",
+  "description": "First package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Digender/npm_first_package.git"
+  },
+  "keywords": [
+    "package"
+  ],
+  "author": "Digender mdigender@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Digender/npm_first_package/issues"
+  },
+  "homepage": "https://github.com/Digender/npm_first_package#readme"
+}
